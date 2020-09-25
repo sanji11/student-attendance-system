@@ -1,0 +1,15 @@
+{
+  "name": "studentattendencesystem",
+  "version": "1.0.0",
+  "description": "An app interacting with student and teacher by taking student's attendence",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sanjida Afrin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
